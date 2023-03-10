@@ -1,7 +1,7 @@
 import {
   MeshBasicMaterial,
   Mesh,
-  BoxGeometry,
+  BoxGeometry
 } from 'three';
 
 // Create a cube with a width, height, and depth of 450

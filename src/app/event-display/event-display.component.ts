@@ -26,7 +26,7 @@ export class EventDisplayComponent {
       ],
 
       // Default view to show when the event display is loaded
-      defaultView: [0, 0, 2000, 0, 0, 0], // x,y,z of position followed by x,y,z of target
+      defaultView: [0, 0, 1500, 0, 0, 0], // x,y,z of position followed by x,y,z of target
 
       // Root node for the Phoenix menu
       phoenixMenuRoot: this.phoenixMenuRoot,

@@ -1,7 +1,7 @@
 import {
   SphereGeometry,
   MeshBasicMaterial,
-  Mesh,
+  Mesh
 } from 'three';
 
 // Create a sphere with a radius of 300, 100 segments for both width and height,

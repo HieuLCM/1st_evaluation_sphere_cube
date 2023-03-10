@@ -8,14 +8,14 @@ import { EventDisplayComponent } from './event-display/event-display.component';
 
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ExportFileComponent } from './event-display/export-file/export-file.component';
-import { LoadComponent } from './event-display/load/load.component';
+import { LoadingComponent } from './event-display/loading/loading.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     EventDisplayComponent,
     ExportFileComponent,
-    LoadComponent,
+    LoadingComponent,
   ],
   imports: [
     BrowserModule,

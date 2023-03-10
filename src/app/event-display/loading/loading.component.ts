@@ -1,11 +1,11 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'app-load',
-  templateUrl: './load.component.html',
-  styleUrls: ['./load.component.scss'],
+  selector: 'app-loading',
+  templateUrl: './loading.component.html',
+  styleUrls: ['./loading.component.scss'],
 })
-export class LoadComponent {
+export class LoadingComponent {
   // Define the inputs for the component
   @Input() loaded = false;
   @Input() progress: number = 0;

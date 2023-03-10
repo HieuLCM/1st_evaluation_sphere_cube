@@ -9,6 +9,11 @@ import { GLTFExporter } from 'three/examples/jsm/exporters/GLTFExporter.js'; // 
   styleUrls: ['./export-file.component.scss'],
 })
 export class ExportFileComponent {
+  // We can export objects directly from the assets folder.
+  // In this case, you can change the parameter inside the createCube.ts and createSphere.ts files.
+  // Export the customized files and replace sphere.glb and cube.glb with them.
+  // We can modify the initialization set-up of the displayed object.
+
   // Define a method that will be called when the user clicks the button to export the files
   exportFile() {
     // Create a new GLTFExporter object

@@ -1,6 +1,11 @@
 # Sphere&Cube
 
-This Angular CLI web app displays a 3D sphere and a 3D cube using the `phoenix-event-display` and `phoenix-ui-components` libraries.
+This Angular CLI web app displays a 3D sphere and a 3D cube using Phoenix, a TypeScript-based event display framework.
+
+## Prerequisites
+
+1. Install Node.js and NPM on your system. You can download the latest version of Node.js from the [official website](https://nodejs.org/en/download/).
+2. Install Angular CLI globally by running the command `npm install -g @angular/cli`. This command will install the latest version of Angular CLI on your system.
 
 ## How to Run
 
