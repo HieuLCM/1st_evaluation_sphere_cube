@@ -21,12 +21,12 @@ export class EventDisplayComponent {
       // Array of preset views to use in the event display
       presetViews: [
         new PresetView('Right View', [1700, 0, 0], [0, 0, 0], 'right-cube'),
-        new PresetView('Center View', [0, 1000, 1400], [0, 0, 0], 'top-cube'),
+        new PresetView('Center View', [0, 700, 1000], [0, 0, 0], 'top-cube'),
         new PresetView('Left View', [-1700, 0, 0], [0, 0, 0], 'left-cube'),
       ],
 
       // Default view to show when the event display is loaded
-      defaultView: [0, 0, 1500, 0, 0, 0], // x,y,z of position followed by x,y,z of target
+      defaultView: [0, 0, 1200, 0, 0, 0], // x,y,z of position followed by x,y,z of target
 
       // Root node for the Phoenix menu
       phoenixMenuRoot: this.phoenixMenuRoot,
