@@ -18,5 +18,7 @@ This Angular CLI web app displays a 3D sphere and a 3D cube using Phoenix, a Typ
 ## About the App
 ![image](https://user-images.githubusercontent.com/88785267/224266014-57ddbd1d-f6e2-4223-bc8e-5a1f87e8c357.png)
 The app showcases the use of Angular CLI and the `phoenix-event-display` and `phoenix-ui-components` libraries for displaying 3D objects on a web page.
+
 The objects (sphere and cube) are loaded from GLTF files in the assets folder. These GLTF files are created using ThreeJS and can be exported by clicking the download button in the menu.
+
 ### Le Cong Minh Hieu - GSoC 2023
