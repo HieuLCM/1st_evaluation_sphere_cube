@@ -11,9 +11,11 @@ This Angular CLI web app displays a 3D sphere and a 3D cube using Phoenix, a Typ
 
 1. Clone this repository to your local machine
 ```git clone git@github.com:HieuLCM/1st_evaluation_sphere_cube.git```
-2. Run `npm install` to install the necessary dependencies
-3. Run `npm start` or `ng serve` to start the development server
-4. Navigate to `http://localhost:4200/` in your web browser to view the app
+2. Change the current directory into the cloned folder
+```cd 1st_evaluation_sphere_cube```
+3. Run `npm install` to install the necessary dependencies
+4. Run `npm start` or `ng serve` to start the development server
+5. Navigate to `http://localhost:4200/` in your web browser to view the app
 
 ## About the App
 ![image](https://user-images.githubusercontent.com/88785267/224266014-57ddbd1d-f6e2-4223-bc8e-5a1f87e8c357.png)
