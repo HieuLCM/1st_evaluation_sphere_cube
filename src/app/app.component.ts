@@ -2,9 +2,6 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  template: ` <app-event-display></app-event-display> `,
 })
-export class AppComponent {
-  title = 'phoenixSC';
-}
+export class AppComponent {}
