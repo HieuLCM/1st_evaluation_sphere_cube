@@ -15,8 +15,7 @@ This Angular CLI web app displays a 3D sphere and a 3D cube using Phoenix, a Typ
 4. Navigate to `http://localhost:4200/` in your web browser to view the app
 
 ## About the App
-![image](https://user-images.githubusercontent.com/88785267/224244570-31f27f64-97b6-4e5d-b9a0-51d9a5c7091f.png)
-
+![image](https://user-images.githubusercontent.com/88785267/224266014-57ddbd1d-f6e2-4223-bc8e-5a1f87e8c357.png)
 The app showcases the use of Angular CLI and the `phoenix-event-display` and `phoenix-ui-components` libraries for displaying 3D objects on a web page.
 
 ### Le Cong Minh Hieu - GSoC 2023
