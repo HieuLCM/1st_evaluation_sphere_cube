@@ -1,7 +1,8 @@
 # Sphere&Cube
 
 This Angular CLI web app displays a 3D sphere and a 3D cube using Phoenix, a TypeScript-based event display framework.
-
+<br>
+The web app has been deployed and can be accessed through [cube-sphere-hieu-gsoc.netlify.app](https://cube-sphere-hieu-gsoc.netlify.app/)
 ## Prerequisites
 
 1. Install Node.js and NPM on your system. You can download the latest version of Node.js from the [official website](https://nodejs.org/en/download/).
